@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  backend:
+  - apiVersion: v2
+    appVersion: 1.0.1
+    created: "2026-05-02T23:45:21.284300976+03:00"
+    description: Backend service for home listing app
+    digest: c38bda8c774c8fc06d8ae3925dc3a143fb72252ecc3285fba4ee42250cc6e79d
+    name: backend
+    type: application
+    urls:
+    - backend-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-05-02T23:45:21.283326156+03:00"
