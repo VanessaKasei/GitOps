@@ -11,6 +11,3 @@ service:
 env:
   APP_NAME: "Application"
   PORT: "4005"
-
-secret:
-  mongoUri: ""  # leave empty, inject during deploy
