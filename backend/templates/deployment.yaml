@@ -4,7 +4,7 @@ metadata:
   name: {{ .Release.Name }}-backend
   annotations:
     argocd.argoproj.io/sync-wave: "0"
-spec:
+  spec:
   replicas: {{ .Values.replicaCount }}
 
   revisionHistoryLimit: 3
