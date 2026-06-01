@@ -2,7 +2,7 @@ replicaCount: 4
 
 image:
   repository: "vee101/backend"
-  tag: "1.0.1"
+  tag: "2dca29f18e57a79fbf5553714c990904b8a6f86a"
   pullPolicy: IfNotPresent
 
 service:
