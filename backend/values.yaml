@@ -2,7 +2,7 @@ replicaCount: 4
 
 image:
   repository: homebackend
-  tag: "1.0.1"
+  tag: "38774de1e49e12b7e5f632a668afa3a009f0f922"
   pullPolicy: IfNotPresent
 
 service:
